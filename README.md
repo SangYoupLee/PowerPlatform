@@ -47,6 +47,4 @@ https://bit.ly/power_automate_pdf
 
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/b80790e7-63dc-4cef-9b34-c1f0be01baee)
 
-
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/02f6ee81-6bf4-43f2-9f4c-4f2f679555f9)
+### 24년 3월 29일에 해당 세션 IT 융복합관에서 진행합니다!
