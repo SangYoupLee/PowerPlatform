@@ -17,36 +17,9 @@
 메일 내 첨부 파일로 확인을 못하신 분들은
 Repository 내 M365.md 파일을 참고해주세요 :)
 
-링크 : ## Microsoft 365 학생계정 활성화
+링크 : M365.md
 
-### 1. 통합정보시스템 on.knu.ac.kr 에 접속 후, 해당 사진에 맞게 진행해줍니다
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/30afd359-4a00-4525-9338-6721e8fe8134)
-##
-
-### 2. 'MS 365' 항목을 클릭 해줍니다
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/2866477c-c1fa-4df6-9e9d-b00369281448)
-##
-
-### 3. Microsoft 365 로그인을 해줍니다
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/e0fe5858-53ef-4485-9182-e34bf01baf2e)
-##
-
-### 4. 새로운 암호를 설정해줍니다
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/d66b9298-2265-4fbd-8ad7-5cfa2a0ae96a)
-##
-
-### 5. 계정을 선택해줍니다
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/99e0f5f7-abcb-4f34-b464-87ea29639980)
-##
-
-### 6. office.com 사이트에 접속이 되면 성공!
-
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/14108a03-cd53-4f6e-9d2a-e084e1c95bd7)
+(https://github.com/SangYoupLee/PowerPlatform/assets/125184499/14108a03-cd53-4f6e-9d2a-e084e1c95bd7)
 ##
 
 ### 이제 Power Automate를 활용하여 자동화된 흐름을 만들 수 있습니다 :)
