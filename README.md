@@ -9,6 +9,8 @@
 - Outlook 및 Power Automate 가능 여부 확인
 - Teams 내 자신만의 팀 생성
 
+해당사항은 메일 내 첨부파일을 참고해주세요 :)
+
 ##
 
 ### Microsoft 365 계정 활성화
