@@ -14,6 +14,7 @@
 ### Microsoft 365 계정 활성화
 메일 내 첨부 파일로 확인을 못하신 분들은
 Repository 내 M365.md 파일을 참고해주세요 :)
+
 링크 : https://github.com/SangYoupLee/PowerPlatform/blob/0750c84f01a23a550079dfb0d17216c07b640535/README.md
 
 ## 세션 진행 PDF 파일
