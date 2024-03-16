@@ -19,7 +19,7 @@ Repository 내 M365.md 파일을 참고해주세요 :)
 
 링크 : M365.md
 
-(https://github.com/SangYoupLee/PowerPlatform/assets/125184499/14108a03-cd53-4f6e-9d2a-e084e1c95bd7)
+
 ##
 
 ### 이제 Power Automate를 활용하여 자동화된 흐름을 만들 수 있습니다 :)
