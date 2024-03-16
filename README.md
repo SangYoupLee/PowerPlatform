@@ -1,4 +1,4 @@
-ㅔㅔ# Power Platform 활용 핸즈온
+# Power Platform 활용 핸즈온
 
 ## 3월 29일 동아리 운영 자동화 세션 (with MLSA Alpha SangYoupLee)
 
