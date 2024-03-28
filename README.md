@@ -17,7 +17,7 @@
 메일 내 첨부 파일로 확인을 못하신 분들은
 Repository 내 M365.md 파일을 참고해주세요 :)
 
-링크 : https://github.com/SangYoupLee/PowerPlatform/blob/main/M365.md
+링크 : [M365](./M365.md)
 
 
 ##
