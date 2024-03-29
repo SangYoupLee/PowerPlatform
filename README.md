@@ -24,7 +24,7 @@ Repository 내 M365.md 파일을 참고해주세요 :)
 
 ### 이제 Power Automate를 활용하여 자동화된 흐름을 만들 수 있습니다 :)
 ## 세션 진행 PDF 파일
-[power_automate_pdf](https://stdntpartners-my.sharepoint.com/personal/sangyoup_lee_studentambassadors_com/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fsangyoup%5Flee%5Fstudentambassadors%5Fcom%2FDocuments%2F3%EC%9B%94%20%ED%8C%8C%EC%9B%8C%20%EC%98%A4%ED%86%A0%EB%A9%94%EC%9D%B4%ED%8A%B8%20%EC%84%B8%EC%85%98%2Epdf&parent=%2Fpersonal%2Fsangyoup%5Flee%5Fstudentambassadors%5Fcom%2FDocuments&ga=1)
+[power_automate_pdf](https://stdntpartners-my.sharepoint.com/:b:/g/personal/sangyoup_lee_studentambassadors_com/EaH1LolhIb1KgsskoGyUHWMBaWGTZF9_mXt4yYbuXz-U8Q?e=UJCNTS)
 위 파일을 참고하셔서 같이 따라가시면 됩니다
 미리 한 번 읽어보세요!
 
