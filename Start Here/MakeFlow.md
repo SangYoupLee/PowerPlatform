@@ -85,7 +85,45 @@ Power Automate 사이트로 들어가서, 이전에 getready.md 에서 만들어
 
 문서 라이브러리 : "My Meetup"
 
-파일
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/ee9b9f71-1839-4623-b8c3-f9c715b8e0ef)
 
-테이블
+파일 : 우측에 폴더 모양 눌러서 "참가자명단.xlsx" 선택해줍니다
 
+테이블 : 우측에 드롭다운 메뉴를 클릭하여 표1을 선택해줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/7356bb21-8d38-4f3f-afcb-3e2216daf2d3)
+
+
+참가자 이름, 학과, 참가자 이메일, 참가일, 지원동기 모두
+
+우측에 "동적 콘텐츠 추가" 를 눌러 "응답 세부정보 가져오기" 작업에서 가져온,
+
+동일한 이름의 동적 콘텐츠 들을 각각 선택해줍니다.
+-
+
+만약, 동적 콘텐츠 추가 가 뜨지 않는다면, 항목 우측의 네모박스를 클릭해주세요!
+
+
+## 4. 파일 콘텐츠 가져오기
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/757c2918-1565-4635-b71f-c3826fa415a8)
+
+
+사이트 주소 : KNU Club
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/eb311aa0-a630-4907-a811-1ec71bffb9d8)
+
+파일 식별자 : 우측에 폴더 모양을 클릭하여, 나타나는 폴더 중 "My Club" 내의 "KNU_CLUB_APPLICATION.docx" 를 눌러줍니다
+
+콘텐츠 형식 유추 : "네" 로 선택해줍니다.
+
+
+## 5. 파일 만들기
+
+
+## 6. 파일 변환 (프리뷰)
+
+
+## 7. 메일 보내기 (v2)
