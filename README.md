@@ -55,7 +55,9 @@ Repository 내 M365.md 파일을 참고해주세요 :)
 ## Power Automate 관련 설명
 
 [자동화에 관한 설명](https://learn.microsoft.com/ko-kr/power-automate/guidance/planning/various-types-process-automation)
+[DPA와 RPA](https://learn.microsoft.com/ko-kr/power-automate/guidance/planning/various-types-process-automation/?wt.mc_id=studentamb_334801)
+[실습 공부 자료](https://learn.microsoft.com/ko-kr/training/modules/use-power-automate-increase-productivity/?wt.mc_id=studentamb_334801)
 
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/b80790e7-63dc-4cef-9b34-c1f0be01baee)
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/a59e5997-1f89-4eae-a797-0fbf6af9b0be)
 
 ### 24년 3월 29일에 해당 세션 IT 융복합관에서 진행합니다!
