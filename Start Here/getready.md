@@ -157,6 +157,10 @@ Next 버튼을 클릭해줍니다
 
 [실습 사용 문서](/KNU_CLUB_APPLICATION.docx)
 
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/1b255722-9438-4198-9e95-ca010acca7f9)
+
+위 링크로 들어가서 우측 상단 ... 을 누른 뒤 두 개의 파일을 다운로드 해줍니다.
+
 
 Sharepoint 내 라이브러리에 위 두가지 파일을 모두 업로드 해줍니다.
 먼저 라이브러리를 생성 후 -> 위 파일들을 업로드 해주겠습니다.
