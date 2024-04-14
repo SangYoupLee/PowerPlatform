@@ -117,13 +117,102 @@ Power Automate 사이트로 들어가서, 이전에 getready.md 에서 만들어
 
 파일 식별자 : 우측에 폴더 모양을 클릭하여, 나타나는 폴더 중 "My Club" 내의 "KNU_CLUB_APPLICATION.docx" 를 눌러줍니다
 
-콘텐츠 형식 유추 : "네" 로 선택해줍니다.
+콘텐츠 형식 유추 : "네" 로 선택해줍니다. (고급 옵션 표시를 누르면 나옵니다)
 
 
 ## 5. 파일 만들기
 
 
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/bd688ca4-6e54-4238-903e-633e28a57df3)
+
+
+폴더 경로 : / 를 입력해줍니다
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/2322bb8a-8009-4503-a35d-9e1e5c3b70ee)
+
+
+파일 이름 : [참가자 이름]_동아리신청안내_[utcNow('d')].docx 
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/dd9ad4b6-d427-4367-83a5-90a1c522b93e)
+
+동적 콘텐츠 추가에서, "응답 세부정보 가져오기" 동작의 "참가자 이름" 을 선택해줍니다.
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/51009391-3276-4027-a464-4c0ae51a0efa)
+
+
+[참가자 이름]_동아리신청안내_ 까지 입력한 뒤, 위 함수를 입력해줍니다.
+위 함수는, 동적 콘텐츠 우측의 식 을 누르면 함수를 작성할 수 있는데, 거기서 하시면 됩니다.
+이후 마지막 파일 확장자 '.docx' 까지 입력해줍니다.
+
+파일 콘텐츠 : "파일 콘텐츠 가져오기" 동작의 "파일 콘텐츠" 를 가져옵니다.
+
+
 ## 6. 파일 변환 (프리뷰)
 
 
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/f978674d-04d7-411e-83c9-34dc668f46ab)
+
+
+파일 : 동적 콘텐츠 추가에서, [파일 만들기] 작업에서의 [ID] 를 선택해줍니다.
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/722ea16a-5e1c-4c51-9d56-add83dd722a1)
+
+대상 유형 : 우측의 드롭다운 버튼을 눌러, "PDF" 를 선택해줍니다.
+
+
 ## 7. 메일 보내기 (v2)
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/456ec860-e3ab-4e2d-abf5-c0e1363975cb)
+
+
+받는 사람 : 응답 세부 정보 가져오기 -> 참가자 이메일
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/deb98ad9-6f40-47b6-a511-41cde1f8250b)
+
+만약, 찾고자 하는 항목이 보이지 않는다면, "자세히 보기"를 눌러주세요
+
+
+제목 : [참가자 이름] 님의 KNU CLUB 신청이 완료되었습니다_utcNow('d')
+-응답 세부정보 가져오기 -> 참가자 이름
+-식에서 utcNow('d') 를 입력
+
+본문 : 
+
+{utcNow('d')} 부로 세션 신청이 접수완료 되었습니다
+
+KNU CLUB 관련 추가 안내사항은
+첨부파일로 안내드립니다
+
+[참가일] 에 뵙겠습니다 :)
+
+-식에서 utcNow('d') 를 입력
+-응답 세부정보 가져오기 -> 참가일
+
+첨부 파일 이름 : [파일 이름]
+
+파일 변환 -> 파일 이름
+
+첨부 파일 콘텐츠 : [파일 콘텐츠]
+
+파일 변환 -> 파일 콘텐츠
+
+###
+
+이렇게 실습이 모두 완료되었습니다.
+
+이제 확인하러 가보실까요? 제작했던 폼으로 이동해보세요!
+
+폼 제출 후, 흐름이 잘 작동되는지 확인하려면
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/fdddb9f1-651a-4b33-a039-dc7fc648c77b)
+
+
+해당 화면에서, 실행 기록 내 현재 실행중인 흐름을 클릭해주시면 됩니다!
+
+폼 내에 무작위 이름과, 확인할 수 있는 이메일을 넣어보시고 이메일 잘 오는지 확인해주세요!
+(만약 확인이 안된다면 스팸 메일함을 확인해보시고 이전 과정에서 잘못된 건 없는지 확인해주세요)
+
+고생하셨습니다 :)
+
