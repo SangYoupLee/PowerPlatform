@@ -21,25 +21,29 @@
 
 # 세션 진행 순서
 
-## [1. 흐름 만들 준비](./Start%20eHere/MakeFlow.md)
+## [1. 흐름 만들 준비](./StartHere/MakeFlow.md)
 
 먼저, 흐름 만들기를 위한 몇 가지 준비를 하고
 
-## [2. 흐름 만들기](./Start%20eHere/getready.md)
+## [2. 흐름 만들기](./StartHere/getready.md)
 
 이후 위의 흐름을 만들어보겠습니다.
+
+##
 
 위 링크 따라서 순서대로 진행해주세요!
 
 그럼 노코드 자동화 세션 시작하겠습니다 :)
 
-
-
 Power Platform 및 Power Automate 관련 자세한 설명은 아래 링크를 참고해주세요!
+
+
 
 ## Power Platform 관련 설명
 
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/9d6f4d96-e7a5-4a4c-b15e-f88c46eebf63)
+
+
 
 
 ## Power Automate 관련 설명
