@@ -162,3 +162,42 @@ Sharepoint 내 라이브러리에 위 두가지 파일을 모두 업로드 해�
 먼저 라이브러리를 생성 후 -> 위 파일들을 업로드 해주겠습니다.
 
 
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/a8d8672a-52df-42e9-b8f4-46af9a3fb00e)
+
+
+먼저, Sharepoint에서, 방금 만들었던 팀 사이트 내로 들어가줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/a9bd6704-3c5d-4885-80c1-498716af37c7)
+
+
++새로 만들기 -> 문서 라이브러리 를 생성해줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/85c4b716-8f42-4f7e-91e7-0c92ea666102)
+
+
+빈 라이브러리를 눌러줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/402a1ca5-14a1-4914-b148-384c444a0518)
+
+
+My Club 이라는 이름의 라이브러리를 만들어 줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/7f37d578-470e-46d9-90c4-6411619a671b)
+
+
+라이브러리가 만들어 지면, 다음과 같은 화면이 나타납니다.
+
+이후, 실습 시 사용할 파일을 업로드 해주겠습니다. 
+
+업로드 -> 파일을 눌러줍니다
+
+
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/ad08810e-7dcf-4fa0-8f41-0e16e702cfd3)
+
+
+두 파일 업로드 모두 확인해줍니다
+실습을 시작할 준비가 완료되었습니다!
