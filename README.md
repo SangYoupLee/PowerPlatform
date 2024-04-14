@@ -70,9 +70,10 @@ Power Platform 및 Power Automate 관련 자세한 설명은 아래 링크를 �
 
 ### 이제 Power Automate를 활용하여 자동화된 흐름을 만들 수 있습니다 :)
 ## 세션 진행 PDF 파일
-[power_automate_pdf](https://stdntpartners-my.sharepoint.com/:b:/g/personal/sangyoup_lee_studentambassadors_com/EaH1LolhIb1KgsskoGyUHWMBaWGTZF9_mXt4yYbuXz-U8Q?e=UJCNTS)
-위 파일을 참고하셔서 같이 따라가시면 됩니다
-미리 한 번 읽어보세요!
+[power_automate_pdf](./power_automate.pdf)
+
+5월 세션 진행 후, 좀 더 많은 동작이 있는 흐름을 만들고 싶다면, 위 pdf 를 확인해주세요!
+(링크 타고 들어가신 뒤, 우측 상단의 점 세개 누르시면 다운로드 받을 수 있습니다)
 
 ## 우리가 마주할 결과물
 
