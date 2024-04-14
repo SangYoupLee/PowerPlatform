@@ -190,7 +190,7 @@ Sharepoint 내 라이브러리에 위 두가지 파일을 모두 업로드 해�
 My Club 이라는 이름의 라이브러리를 만들어 줍니다
 
 
-![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/7f37d578-470e-46d9-90c4-6411619a671b)
+![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/416289ac-5df6-4ecc-8802-fb7ccb5c9e7b)
 
 
 라이브러리가 만들어 지면, 다음과 같은 화면이 나타납니다.
