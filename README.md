@@ -42,10 +42,18 @@ Power Platform 및 Power Automate 관련 자세한 설명은 아래 링크를 �
 ## Power Automate 관련 설명
 
 [자동화에 관한 설명](https://learn.microsoft.com/ko-kr/power-automate/guidance/planning/various-types-process-automation)
+
 [DPA와 RPA](https://learn.microsoft.com/ko-kr/power-automate/guidance/planning/various-types-process-automation/?wt.mc_id=studentamb_334801)
+
 [실습 공부 자료](https://learn.microsoft.com/ko-kr/training/modules/use-power-automate-increase-productivity/?wt.mc_id=studentamb_334801)
 
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/a59e5997-1f89-4eae-a797-0fbf6af9b0be)
+
+
+
+
+
+
 
 
 ##
