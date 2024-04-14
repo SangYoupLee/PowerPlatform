@@ -21,11 +21,11 @@
 
 # 세션 진행 순서
 
-## [1. 흐름 만들 준비](./StartHere/MakeFlow.md)
+## [1. 흐름 만들 준비](./StartHere/getready.md)
 
 먼저, 흐름 만들기를 위한 몇 가지 준비를 하고
 
-## [2. 흐름 만들기](./StartHere/getready.md)
+## [2. 흐름 만들기](./StartHere/MakeFlow.md)
 
 이후 위의 흐름을 만들어보겠습니다.
 
