@@ -1,16 +1,9 @@
 # 노 코드 자동화 실습
-
-## 5월 2일 Power Automate 자동화 세션 (with MLSA Alpha SangYoupLee)
+5월 2일 Power Automate 자동화 세션 (with MLSA Alpha SangYoupLee)
 
 ## 사전 준비사항
 - Microsoft 365 계정 활성화
 (없으시면 아래 링크 눌러서 바로 하시면 됩니다!)
- 
-##
-
-### Microsoft 365 계정 활성화
-메일 내 첨부 파일로 확인을 못하신 분들은
-Repository 내 M365.md 파일을 참고해주세요 :)
 
 링크 : [M365](./M365.md)
 
@@ -28,12 +21,14 @@ Repository 내 M365.md 파일을 참고해주세요 :)
 
 # 세션 진행 순서
 
-## (1. 흐름 만들 준비)[/Start Here/getready.md]
-## (2. 흐름 만들기)[/Start Here/MakeFlow.md]
+(1. 흐름 만들 준비)[/Start Here/getready.md]
+(2. 흐름 만들기)[/Start Here/MakeFlow.md]
 
 위 링크 따라서 순서대로 진행해주세요!
 
 그럼 노코드 자동화 세션 시작하겠습니다 :)
+
+
 
 Power Platform 및 Power Automate 관련 자세한 설명은 아래 링크를 참고해주세요!
 
@@ -49,9 +44,6 @@ Power Platform 및 Power Automate 관련 자세한 설명은 아래 링크를 �
 [실습 공부 자료](https://learn.microsoft.com/ko-kr/training/modules/use-power-automate-increase-productivity/?wt.mc_id=studentamb_334801)
 
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/a59e5997-1f89-4eae-a797-0fbf6af9b0be)
-
-
-
 
 
 ##
