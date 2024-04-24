@@ -131,7 +131,7 @@ Power Automate 사이트로 들어가서, 이전에 getready.md 에서 만들어
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/2322bb8a-8009-4503-a35d-9e1e5c3b70ee)
 
 
-파일 이름 : [참가자 이름]_동아리신청안내_[utcNow('d')].docx 
+파일 이름 : [참가자 이름]'언더바'동아리신청안내'언더바'[utcNow('d')].docx 
 
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/dd9ad4b6-d427-4367-83a5-90a1c522b93e)
 
@@ -140,7 +140,7 @@ Power Automate 사이트로 들어가서, 이전에 getready.md 에서 만들어
 ![image](https://github.com/SangYoupLee/PowerPlatform/assets/125184499/51009391-3276-4027-a464-4c0ae51a0efa)
 
 
-[참가자 이름]_동아리신청안내_ 까지 입력한 뒤, 위 함수를 입력해줍니다.
+[참가자 이름]'_'동아리신청안내'_' 까지 입력한 뒤, 위 함수를 입력해줍니다.
 위 함수는, 동적 콘텐츠 우측의 식 을 누르면 함수를 작성할 수 있는데, 거기서 하시면 됩니다.
 이후 마지막 파일 확장자 '.docx' 까지 입력해줍니다.
 
